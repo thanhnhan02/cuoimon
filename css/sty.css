@@ -106,6 +106,9 @@ width: 100px; kheight: auto;
 .bt-30{
 	padding-top: 40px
 }
+.show-more :hover{
+	color: #851715;
+}
 .show-more{
 	text-decoration: none; color: #E1246A; font-size: 14px
 } 
